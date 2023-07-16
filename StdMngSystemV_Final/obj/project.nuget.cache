@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LT05JACv66CM6jJ02dmGVQFtKtMGbtb0F6hgpm3wcdsW1HCLCjFy5+W8QzXMqGQ+UYNrsyOel2UUWYmZnSnfsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Supuni\\Desktop\\StdMngSystemV_Final\\StdMngSystemV_Final\\StdMngSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Supuni\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview1\\communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512"
+  ],
+  "logs": []
+}

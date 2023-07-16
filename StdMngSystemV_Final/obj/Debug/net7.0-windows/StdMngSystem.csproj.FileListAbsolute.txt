@@ -1,0 +1,54 @@
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.exe
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.deps.json
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.runtimeconfig.json
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.dll
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.pdb
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.AssemblyReference.cache
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem_MarkupCompile.cache
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem_MarkupCompile.lref
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\App.baml
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.g.resources
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.AssemblyInfoInputs.cache
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.AssemblyInfo.cs
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.CoreCompileInputs.cache
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.CopyComplete
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.dll
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\refint\StdMngSystem.dll
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.pdb
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.genruntimeconfig.cache
+C:\Users\Supuni\Desktop\assignment final\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\ref\StdMngSystem.dll
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.exe
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.deps.json
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.runtimeconfig.json
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.dll
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\bin\Debug\net7.0-windows\StdMngSystem.pdb
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.AssemblyReference.cache
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem_MarkupCompile.cache
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem_MarkupCompile.lref
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\App.baml
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.g.resources
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.AssemblyInfoInputs.cache
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.AssemblyInfo.cs
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.CoreCompileInputs.cache
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.csproj.CopyComplete
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.dll
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\refint\StdMngSystem.dll
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.pdb
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\StdMngSystem.genruntimeconfig.cache
+C:\Users\Supuni\Desktop\StdMngSystemV_Final\StdMngSystemV_Final\obj\Debug\net7.0-windows\ref\StdMngSystem.dll
